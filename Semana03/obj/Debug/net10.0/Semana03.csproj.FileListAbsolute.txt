@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\bin\Debug\net10.0\Semana03.exe
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\bin\Debug\net10.0\Semana03.deps.json
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\bin\Debug\net10.0\Semana03.runtimeconfig.json
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\bin\Debug\net10.0\Semana03.dll
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\bin\Debug\net10.0\Semana03.pdb
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.AssemblyInfo.cs
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.sourcelink.json
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.dll
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\refint\Semana03.dll
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.pdb
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\Semana03.genruntimeconfig.cache
+C:\Users\HP\Desktop\ESTRUCTURA DE DATOS\Semana03\obj\Debug\net10.0\ref\Semana03.dll
