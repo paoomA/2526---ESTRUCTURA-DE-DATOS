@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj": {}
+    "C:\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj": {
+    "C:\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj",
+        "projectUniqueName": "C:\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj",
         "projectName": "Semana02",
-        "projectPath": "C:\\Users\\HP\\Desktop\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\ESTRUCTURA DE DATOS\\Semana02\\obj\\",
+        "projectPath": "C:\\ESTRUCTURA DE DATOS\\Semana02\\Semana02.csproj",
+        "packagesPath": "C:\\Users\\PAOLA\\.nuget\\packages\\",
+        "outputPath": "C:\\ESTRUCTURA DE DATOS\\Semana02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PAOLA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
