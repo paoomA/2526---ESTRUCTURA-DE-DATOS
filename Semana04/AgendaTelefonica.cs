@@ -17,8 +17,8 @@ struct Autor
 // ===================================================
 class Contacto
 {
-    public string Nombre;
-    public string Telefono;
+    public string Nombre = "";   // Inicializado para evitar null
+    public string Telefono = ""; // Inicializado para evitar null
 
     public virtual string Detalle()
     {
@@ -31,7 +31,7 @@ class Contacto
 // ===================================================
 class ContactoPersonal : Contacto
 {
-    public string Relacion;
+    public string Relacion = ""; // Inicializado para evitar null
 
     public override string Detalle()
     {
@@ -44,7 +44,7 @@ class ContactoPersonal : Contacto
 // ===================================================
 class ContactoProfesional : Contacto
 {
-    public string Cargo;
+    public string Cargo = ""; // Inicializado para evitar null
 
     public override string Detalle()
     {
