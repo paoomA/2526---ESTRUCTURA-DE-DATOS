@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ESTRUCTURA DE DATOS\\SEMANA04\\Semana04.csproj": {}
+    "C:\\ESTRUCTURA DE DATOS\\Semana04\\Semana04.csproj": {}
   },
   "projects": {
-    "C:\\ESTRUCTURA DE DATOS\\SEMANA04\\Semana04.csproj": {
+    "C:\\ESTRUCTURA DE DATOS\\Semana04\\Semana04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ESTRUCTURA DE DATOS\\SEMANA04\\Semana04.csproj",
+        "projectUniqueName": "C:\\ESTRUCTURA DE DATOS\\Semana04\\Semana04.csproj",
         "projectName": "Semana04",
-        "projectPath": "C:\\ESTRUCTURA DE DATOS\\SEMANA04\\Semana04.csproj",
+        "projectPath": "C:\\ESTRUCTURA DE DATOS\\Semana04\\Semana04.csproj",
         "packagesPath": "C:\\Users\\PAOLA\\.nuget\\packages\\",
-        "outputPath": "C:\\ESTRUCTURA DE DATOS\\SEMANA04\\obj\\",
+        "outputPath": "C:\\ESTRUCTURA DE DATOS\\Semana04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PAOLA\\AppData\\Roaming\\NuGet\\NuGet.Config"
