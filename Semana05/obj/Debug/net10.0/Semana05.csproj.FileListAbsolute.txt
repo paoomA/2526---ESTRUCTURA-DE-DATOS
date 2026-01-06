@@ -1,0 +1,15 @@
+C:\ESTRUCTURA DE DATOS\Semana05\bin\Debug\net10.0\Semana05.exe
+C:\ESTRUCTURA DE DATOS\Semana05\bin\Debug\net10.0\Semana05.deps.json
+C:\ESTRUCTURA DE DATOS\Semana05\bin\Debug\net10.0\Semana05.runtimeconfig.json
+C:\ESTRUCTURA DE DATOS\Semana05\bin\Debug\net10.0\Semana05.dll
+C:\ESTRUCTURA DE DATOS\Semana05\bin\Debug\net10.0\Semana05.pdb
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.AssemblyInfoInputs.cache
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.AssemblyInfo.cs
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.sourcelink.json
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.dll
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\refint\Semana05.dll
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.pdb
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\Semana05.genruntimeconfig.cache
+C:\ESTRUCTURA DE DATOS\Semana05\obj\Debug\net10.0\ref\Semana05.dll
