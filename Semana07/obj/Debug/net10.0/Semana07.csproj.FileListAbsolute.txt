@@ -1,0 +1,15 @@
+C:\ESTRUCTURA DE DATOS\Semana07\bin\Debug\net10.0\Semana07.exe
+C:\ESTRUCTURA DE DATOS\Semana07\bin\Debug\net10.0\Semana07.deps.json
+C:\ESTRUCTURA DE DATOS\Semana07\bin\Debug\net10.0\Semana07.runtimeconfig.json
+C:\ESTRUCTURA DE DATOS\Semana07\bin\Debug\net10.0\Semana07.dll
+C:\ESTRUCTURA DE DATOS\Semana07\bin\Debug\net10.0\Semana07.pdb
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.AssemblyInfoInputs.cache
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.AssemblyInfo.cs
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.sourcelink.json
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.dll
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\refint\Semana07.dll
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.pdb
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\Semana07.genruntimeconfig.cache
+C:\ESTRUCTURA DE DATOS\Semana07\obj\Debug\net10.0\ref\Semana07.dll
